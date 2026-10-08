@@ -60,7 +60,7 @@
 - [itch.ioでプレーしよう](https://jeffery129.itch.io/youaresocubeweb)
 
 ### Download
-- [リリースビルド](https://jeffery129.itch.io/youaresocubeweb)
+- [リリースビルド](https://github.com/Jeffery129/AT_Year2_KenneyJam2026_YouAreSoCube/releases/tag/Build)
 
 <br>
 
